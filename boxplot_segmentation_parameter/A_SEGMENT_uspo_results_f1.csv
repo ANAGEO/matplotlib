@@ -1,0 +1,2 @@
+region,area,morpho_type,threshold,minsize,variance,spatial_autocorrelation,optimization_criteria
+1,10.1005636217,5555555,0.012,15,2089.72126628,0.369367606913,0.618254945191
